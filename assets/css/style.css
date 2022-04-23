@@ -17,6 +17,7 @@ body {
     background: var(--light);
 }
 
+/*The Area below is header*/
 header {
     background-color: var(--theme);
     display: flex;
@@ -49,11 +50,13 @@ header nav ul {
     list-style: none;
 }
 
+/*The option on header have shadow when user point on it*/
 header a:hover {
     text-shadow: 2px 2px 4px #000000;
     border-radius: 15px;
 }
 
+/*The area below is hero includes a background image and personal photo */
 .hero {
     background-image: url("../image/pexels-lumn-335253.jpg");
     height: 300px;
@@ -72,6 +75,7 @@ header a:hover {
     color: var(--light);
 }
 
+/*The area below is about me*/
 .about-me {
     background-color: var(--dark);
     display: flex;
@@ -80,6 +84,7 @@ header a:hover {
     padding: 30px;
 }
 
+/*Make all the section title on the side*/
 .sideTitle{
     border-right: 5px solid black;
     min-height: 100%;
@@ -96,6 +101,7 @@ header a:hover {
     width: 90%;
 }
 
+/*The area below is my work*/
 .my-work {
     background-color: var(--light);
     display: flex;
@@ -124,6 +130,7 @@ header a:hover {
     margin: 20px;
 }
 
+/*The first card should be bigger than other*/
 .my-work .firstCard {
     display: flex;
     flex-wrap: wrap;
@@ -176,6 +183,8 @@ header a:hover {
     opacity: 1.0;
 }
 
+
+/*The area below is contact me*/
 .contact-me {
     background-color: var(--dark);
     display: flex;
@@ -210,6 +219,7 @@ header a:hover {
 footer{
     text-align: center;
 }
+
 
 @media screen and (max-width: 768px) {
     .hero .quote {
