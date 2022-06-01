@@ -1,38 +1,41 @@
-# 02-Advanced-CSS-Portfolio
-Boot camp week 2 homework
+# My Portfolio
 
-## User Story
+## Table of Contents
+  <ul>
+    <li><a href="#Descriptione">Description</a></li>
+    <li><a href="#Installation">Installation</a></li>
+    <li><a href="#Usage">Usage</a></li>
+    <li><a href="#Contributing">Contributing</a></li>
+    <li><a href="#Tests">Tests</a></li>
+    <li><a href="#Questions">Questions</a></li>
+  </ul>
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
 
+## Description
+This project is only completed in CSS and HTML languages.This portfolio will help me demonstrate my skills and knowledge when applying for jobs.
+Customers can clicking this portfolio and opening the web page to view my previous works.
 
-## Acceptance Criteria
+## Installation
+No need to install anything. Click the link below and you will see my portfolio.
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+## Usage
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
-
-## Link
 Applications deployed site : https://timmmmma.github.io/My-Portfolio/
+
 Github address : https://github.com/Timmmmma/My-Portfolio
 
-## Screenshot
 ![image](https://github.com/Timmmmma/02-Advanced-CSS-Portfolio/blob/main/assets/image/Zhentian%20Chen's%20Portfolio.png)
+
+## Contributing
+
+## Tests
+No need to tests. Click the link above and you will see my portfolio.
+
+## Questions
+If any question, please contact me using the following links:
+
+<a href="https://github.com/Timmmmma">Github</a>
+
+<a href="https://zhentian222@gmail.com">Email</a>
+
+
