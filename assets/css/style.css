@@ -151,7 +151,17 @@ header a:hover {
     width: 100%;
 }
 
-.Horiseon{
+.otherCard2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    flex-direction: row;
+    width: 100%;
+}
+
+#Horiseon{
     background-image: url(../image/Horiseon\ Social\ Solution\ Services.png);
     background-size: cover;
     width: 100%;
@@ -166,7 +176,38 @@ header a:hover {
     background-color: var(--dark);
 }
 
-.comingSoon {
+#Password-Generator{
+    background-image: url(../image/Password\ Generator.png);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+#Code-Quiz{
+    background-image: url(../image/Code\ Quiz.png);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+#Work-Day-Scheduler{
+    background-image: url(../image/Work\ Day\ Scheduler\ -\ Challenge\ 5_\ Third-Party\ APIs.png);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+#Weather-Dashboard{
+    background-image: url(../image/Weather\ Dashboard.png);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+#comingSoon {
     background-image: url(../image/unfounded.png);
     background-size: cover;
     width: 100%;
