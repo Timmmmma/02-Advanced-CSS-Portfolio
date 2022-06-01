@@ -31,8 +31,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Link
-Applications deployed site : https://timmmmma.github.io/02-Advanced-CSS-Portfolio/
-Github address : https://github.com/Timmmmma/02-Advanced-CSS-Portfolio
+Applications deployed site : https://timmmmma.github.io/My-Portfolio/
+Github address : https://github.com/Timmmmma/My-Portfolio
 
 ## Screenshot
 ![image](https://github.com/Timmmmma/02-Advanced-CSS-Portfolio/blob/main/assets/image/Zhentian%20Chen's%20Portfolio.png)
